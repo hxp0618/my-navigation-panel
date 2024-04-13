@@ -266,30 +266,14 @@
           logo: 腾讯云.webp
           url: https://cloud.tencent.com/
           description: 产业智变，云启未来。
-        - title: 华为云
-          logo: 华为云.png
-          url: https://www.huaweicloud.com/
-          description: 共建智能世界云底座。
         - title: 七牛云
           logo: 七牛云.jpg
           url: https://www.qiniu.com/
           description: 一站式场景化智能视频云。
-        - title: 京东云
+        - title: Oracle Cloud
           logo: 京东云.jpg
           url: https://www.jdcloud.com/
           description: 京东科技集团旗下领先的云计算品牌。
-        - title: 云筏科技
-          logo: 云筏.webp
-          url: https://www.cloudraft.cn/
-          description: 云筏 - 科研云。
-        - title: 极云普惠云电脑
-          logo: 极云普惠云电脑.png
-          url: https://www.ji-cloud.cn/
-          description: 云电脑-云游戏-手机变电脑软件。
-        - title: 青椒云
-          logo: 青椒云.jpg
-          url: https://www.qingjiaocloud.com/
-          description: 云桌面,一站式云电脑服务平台。
     - term: 科研绘图
       links: 
         - title: Hiplot
@@ -491,139 +475,16 @@
 
 - taxonomy: 社区论坛
   icon: fas fa fa-comments
-  list:
-    - term: 开源社区
-      links:
-        - title: openEuler
-          logo: openeuler.jpg
-          url: https://www.openeuler.org/
-          description: 欧拉 openEuler 社区。
-        - title: OpenAnolis
-          logo: openanolis.jpg
-          url: https://openanolis.cn/
-          description: 龙蜥 OpenAnolis 社区。
-        - title: Rocky Linux
-          logo: rockylinux.png
-          url: https://rockylinux.org/
-          description: Rocky Linux OS。
-        - title: AlmaLinux
-          logo: AlmaLinux.png
-          url: https://almalinux.org/
-          description: AlmaLinux OS.
-        - title: Openbiox
-          logo: openbiox.jpg
-          url: https://openbiox.org/
-          description: 生物信息学开源社区。
-        - title: 开源之夏
-          logo: 开源之夏.svg
-          url: https://summer-ospp.ac.cn/
-          description: 中科院软件所发起并长期支持的一项暑期开源活动。
-    - term: 生信论坛
-      links:
-        - title: Biostars
-          url: https://www.biostars.org/
-          logo: biostars.png
-          description: Bioinformatics Answers.
-        - title: OmicShare Forum
-          url: https://www.omicshare.com/forum/forum.php
-          logo: 基迪奥.png
-          description: 广州基迪奥生物信息论坛。
-        - title: 生信技能树
-          url: http://www.biotrainee.com/
-          logo: 生信技能树.jpg
-          description: 帮助每一位生信人构建最完善的生信技能树。
-        - title: BioLinkX
-          url: https://biolinkx.cn/
-          logo: biolinks.png
-          description: BioLinkX 生物信息学协会。
-    - term: 技术社区
-      links:
-        - title: 开源中国
-          url: https://www.oschina.net/
-          logo: oschina.png
-          description: 中文开源技术交流社区。
-        - title: 'Stack Overflow'
-          url: https://stackoverflow.com/
-          logo: stackoverflow.png
-          description: 'Where Developers Learn, Share, & Build Careers.'
-        - title: 博客园
-          logo: 博客园.jpg
-          url: https://www.cnblogs.com/
-          description: 开发者的网上家园。
-        - title: 简书
-          url: https://www.jianshu.com/
-          logo: 简书.png
-          description: 简书 - 创作你的创作。
-        - title: 稀土掘金
-          url: https://juejin.cn/
-          logo: 稀土掘金.png
-          description: 掘金 - 代码不止，掘进不停。
-        - title: CSDN
-          url: https://www.csdn.net/
-          logo: csdn.jpg
-          description: CSDN - 专业开发者社区。
-        - title: InfoQ
-          url: https://www.infoq.cn/
-          logo: infoq.png
-          description: 旨在促进软件开发领域知识与创新的传播。
-        - title: SegmentFault
-          url: https://segmentfault.com/
-          logo: segmentfault.png
-          description: 思否，开发者技术社区。
-        - title: 花粉俱乐部
-          logo: 华为云.png
-          url: https://club.huawei.com/
-          description: 华为花粉俱乐部。
-        - title: 荣耀俱乐部
-          logo: 荣耀俱乐部.jpg
-          url: https://club.hihonor.com/cn/
-          description: 荣耀手机官方论坛。
-        - title: 卡饭论坛
-          url: https://bbs.kafan.cn/portal.php
-          logo: 卡饭论坛.jpg
-          description: 最好的软件论坛。
-        - title: Inoreader
-          url: https://www.inoreader.com/
-          logo: inoreader.jpg
-          description: 重新掌控你的新闻订阅源。
-        - title: Hacker News
-          url: https://news.ycombinator.com/
-          logo: hacker-news.jpg
-          description: 一家关于计算机黑客和创业公司的社会化新闻网站。
-        - title: 经管之家
-          url: https://bbs.pinggu.org/
-          logo: 经管之家.jpg
-          description: 国内活跃的经济、管理、金融、统计在线教育和咨询网站。
-        - title: 统计之都
-          url: https://cosx.org/
-          logo: 统计之都.png
-          description: 一个旨在推广与应用统计学知识的网站和社区。
-    - term: 其他平台
-      links:
-        - title: 虎扑社区
-          url: https://bbs.hupu.com/
-          logo: 虎扑.png
-          description: 以体育赛事和日常生活为主的专业直文化社区。
-        - title: 中羽在线社区
-          logo: 中羽.png
-          url: https://bbs.badmintoncn.com/portal.php
-          description: 中羽在线社区-羽毛球友都在这！
-        - title: 百度贴吧
-          logo: 百度贴吧.jpg
-          url: https://tieba.baidu.com/index.html
-          description: 百度贴吧。
-        - title: 豆瓣
-          logo: 豆瓣.jpg
-          url: https://www.douban.com/
-          description: 豆瓣社区。
-        - title: Facebook
-          logo: facebook.png
-          url: https://www.facebook.com/
-          description: Facebook
-        - title: NGA 玩家社区
-          url: https://bbs.nga.cn/
-          logo: nga.png
-          description: 国内专业的游戏玩家社区。
+  links:
+    - title: V2ex
+      logo: v2ex.jpg
+      url: https://www.v2ex.com
+      description: V2ex
+    - title: Linux.do
+      logo: Linux.do.png
+      url: https://linux.do
+      description: Let's do it with linux
+
 
 - taxonomy: 工具集合
   icon: fas fa-tools fa-lg
@@ -1003,92 +864,4 @@
           logo: sccnn.png
           url: http://www.sccnn.com/
           description: 免费素材共享平台。
-    - term: 字体资源
-      links:
-        - title: Google Font
-          url: https://fonts.google.com/
-          logo: googlefont.png
-          description: Making the web more beautiful, fast, and open through great typography.
-        - title: Typekit
-          url: https://typekit.com/
-          logo: typekit.png
-          description: Quality fonts from the world’s best foundries.
-        - title: 方正字库
-          url: http://www.foundertype.com/
-          logo: Fondertype.png
-          description: 方正字库官方网站。
-        - title: 字体传奇网
-          url: http://ziticq.com/
-          logo: ziticq.png
-          description: 中国首个字体品牌设计师交流网。
-        - title: 私藏字体
-          url: http://sicangziti.com/
-          logo: sicangziti.png
-          description: 优质字体免费下载站。
-        - title: Fontsquirrel
-          url: https://www.fontsquirrel.com/
-          logo: fontsquirrel.png
-          description: FREE fonts for graphic designers.
-        - title: Urban Fonts
-          url: https://www.urbanfonts.com/
-          logo: UrbanFonts.png
-          description: Download Free Fonts and Free Dingbats.
-        - title: Lost Type
-          url: http://www.losttype.com/
-          logo: losttype.png
-          description: Lost Type is a Collaborative Digital Type Foundry.
-        - title: FONTS2U
-          url: https://fonts2u.com/
-          logo: fonts2u.png
-          description: Download free fonts for Windows and Macintosh.
-        - title: Fontex
-          url: http://www.fontex.org/
-          logo: fontex.png
-          description: Free Fonts to Download + Premium Typefaces.
-        - title: FontM
-          url: http://fontm.com/
-          logo: FontM.png
-          description: Free Fonts
-        - title: My Fonts
-          url: http://www.myfonts.com/
-          logo: MyFonts.png
-          description: Fonts for Print, Products & Screens.
-        - title: Da Font
-          url: https://www.dafont.com/
-          logo: dafont.png
-          description: Archive of freely downloadable fonts.
-        - title: OnlineWebFonts
-          url: https://www.onlinewebfonts.com/
-          logo: OnlineWebFonts.png
-          description: WEB Free Fonts for Windows and Mac / Font free Download.
-        - title: Abstract Fonts
-          url: http://www.abstractfonts.com/
-          logo: abstractfonts.png
-          description: Abstract Fonts (13,866 free fonts).      
-    - term: PPT资源
-      links:
-        - title: OfficePLUS
-          url: http://www.officeplus.cn/Template/Home.shtml
-          logo: officeplus.png
-          description: OfficePLUS，微软Office官方在线模板网站！
-        - title: 优品PPT
-          url: http://www.ypppt.com/
-          logo: ypppt.png
-          description: 高质量的模版，而且还有PPT图表，PPT背景图等资源。
-        - title: PPT+
-          url: http://www.pptplus.cn/
-          logo: pptplus.png
-          description: PPT加直播、录制和分享—PPT+语音内容分享平台。
-        - title: PPTMind
-          url: http://www.pptmind.com/
-          logo: pptmind.png
-          description: 分享高端 ppt 模板与 keynote 模板的数字作品交易平台。
-        - title: tretars
-          url: http://www.tretars.com/ppt-templates
-          logo: tretars.png
-          description: The best free Mockups from the Web.
-        - title: 五百丁
-          url: http://ppt.500d.me/
-          logo: 500d.png
-          description: 中国领先的PPT模板共享平台。
         
